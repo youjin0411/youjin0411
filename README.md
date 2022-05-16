@@ -1,8 +1,7 @@
 ### 🐰 Kim Yu Jin 🐰
 <hr/>
 
-###  🌐 social 🌐
-
+### 🌐 social 🌐
  <a href="https://www.github.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
  <a href="https://www.instagram.com/y_idylic_05/?hl=ko"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
  <a href="https://velog.io/@youjin0411"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=velog&logoColor=white"/></a>
