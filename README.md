@@ -8,7 +8,8 @@
  <a href="https://youjin0411.github.io/wedPracticd/project01.html"><img src="https://img.shields.io/badge/Activities-4285F4?style=flat-square&logo=Goglee&logoColor=white"/></a>
 
  <br/>
-###  💻 language 💻
+ 
+ ### 💻 language 💻
 <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=Java&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=C&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=FFFFFF"/>
